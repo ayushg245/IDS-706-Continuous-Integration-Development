@@ -24,7 +24,7 @@ requirements.txt contains all the packages that need to be installed.
 
 The GitHub Actions workflow is writtened in YAML formatt that automates various tasks in GitHub repositories with the name defined as Ayush_CI.
 
-##WorkFlow :
+## Workflow
 The GitHub actions 'Make install' call the install function in MakeFile to install all the packages there are in requirements.txt (mentioned under Makefile install )
 
 The following project was run via Actions Tab and all the mentioned actions had been successfully executed. 
