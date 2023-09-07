@@ -1,7 +1,7 @@
 # IDS-706-Proj1
 A hands on Project to start with GitHub repository
-By - Ayush Gupta
-Net ID- ag758
+#By - Ayush Gupta
+#Net ID- ag758
 
 ## Goal
 The project goal is to get used to working on GitHub and create a basic working repository that could be used in future for other projects. Hence, it has been kept very basic and only goal is to install packages. 
